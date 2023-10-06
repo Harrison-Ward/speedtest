@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.harrisonward.speedtest</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/harrisonward/Desktop/CS/local_projects/speedtest/run_speedtest.sh</string>
+    </array>
+    <key>StartInterval</key>
+    <integer>900</integer>
+    <key>RunAtLoad</key>
+    <true/>
+</dict>
+</plist>
+
